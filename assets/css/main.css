@@ -1664,13 +1664,9 @@ input, select, textarea {
 		}
 
 		.iconillo {
-			width: 100px;
-			height: 100px;
-			position: fixed;
-			margin-top: -21em;
-			margin-left: -18em;
-			margin-bottom: 300em;
-			margin-right: 2em;
+			width: 85px;
+			height: 85px;
+			position: static;
 			border-radius: 50%;
 		}
 	
